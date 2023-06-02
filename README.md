@@ -11,11 +11,10 @@ The purpose of this project is to apply machine learning concepts to a real worl
 
 This is a classification project using the two models that we have learned so far in the course, Logistic Regression and Decision Tree. 
 
+This project will be using survey data from a [ML competition](https://www.drivendata.org/competitions/66/flu-shot-learning/) to develop a model to predict whether or not the survey respondant recieved the H1N1 vaccine. 
 
 ## Business Undertanding
 I created a hypothetical situation where the ACME coperation public health subsidiary is investigating how to direct its vaccine awareness efforts for a new epedemic the H3N4 virus. 
-
-This project will be using survey data from a [ML competition](https://www.drivendata.org/competitions/66/flu-shot-learning/) to develop a model to predict whether or not the survey respondant recieved the H1N1 vaccine. 
 
 ## Model Results
 I compared 7 different models including 3 baseline models, here are the results:
